@@ -1,5 +1,5 @@
 {
-  "name": "next13-spotify",
+  "name": "music-buffet",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -43,6 +43,6 @@
   "devDependencies": {
     "@types/uniqid": "^5.3.2",
     "encoding": "^0.1.13",
-    "supabase": "^1.64.2"
+    "supabase": "^1.123.4"
   }
 }
